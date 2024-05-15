@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Listening to @Rip_Drippy"];
+const statusMessages = ["Listening to @Rip_Drippy", "Listening to @Rip_Drippy"];
 
 
 let currentIndex = 0;
