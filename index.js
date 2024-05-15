@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["Listening to @Rip_Drippy commands"];
 
 
 let currentIndex = 0;
